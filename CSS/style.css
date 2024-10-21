@@ -1,0 +1,31 @@
+body {
+font-family:Oxanium;
+background-color:#7812E3 ;
+color:#E35312 ;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+font-family: "Audiowide";
+font-size: 30pt;
+}
+
+header{
+text-align: center;
+}
+
+#hero, footer{
+    border: 5px solid #E3E312;
+    background-color:#12E3CB ;
+    text-align: center;
+}
+
+#hero img{
+    width: 250px;
+}
+
+#bio{
+
+text-align: center;
+
+}
