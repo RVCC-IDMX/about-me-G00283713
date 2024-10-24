@@ -8,9 +8,7 @@ color:#E35312 ;
 h1, h2, h3, h4, h5, h6 {
 font-family: "Audiowide";
 text-align: center;
-}
-h1{
-    font-size: 30pt;
+font-size: 30pt;
 }
 
 header{
@@ -51,7 +49,8 @@ color:black
 
 #gallery{
 
-border: 2px solid #E3E312
+border: 2px solid #E3E312;
+margin-bottom: 2rem;
 
 }
 
@@ -61,4 +60,34 @@ max-width: 100%;
 
 #gallery figure{
 text-align: center;
+}
+
+/* Literature */
+
+#lit{
+border: 2px solid #E3E312;
+margin-bottom: 2rem;
+}
+
+#lit div{
+    padding: 2rem;
+    max-width: 40rem;
+    margin: 0 auto;
+}
+
+#lit div p{
+    padding: .3rem 0;
+    clear:both;
+}
+
+/* Dropcaps */
+#lit div p:first-letter{
+    color:#12E3CB;
+    float:left;
+    font-size: 2.5rem;
+    padding-top: .4rem;
+    margin-right: .25rem;
+    line-height: .65;
+    border: 2px solid #E3E312;
+    box-shadow: 2px 2px 2px black;
 }
