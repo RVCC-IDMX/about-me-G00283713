@@ -11,6 +11,10 @@ text-align: center;
 font-size: 30pt;
 }
 
+h2{
+    margin: .1em;
+}
+
 header{
 text-align: center;
 }
@@ -36,6 +40,12 @@ text-align: center;
 }
 
 /* Hobbies Section */
+
+section#hobbies{
+display: flex;
+flex-direction: column;
+align-items: center;
+} 
 
 #hobbies ul li:nth-child(3){
     width: 137px;
@@ -90,4 +100,22 @@ margin-bottom: 2rem;
     line-height: .65;
     border: 2px solid #E3E312;
     box-shadow: 2px 2px 2px black;
+}
+
+
+@media screen and (min-width: 60em){
+figure{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+
+
+figcaption{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    margin-right: 8rem;
+}
+
 }
