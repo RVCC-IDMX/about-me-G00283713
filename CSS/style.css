@@ -90,6 +90,12 @@ margin-bottom: 2rem;
     clear:both;
 }
 
+#video{
+   display:flex;
+   justify-content: center;
+   align-items: center;
+}
+
 /* Dropcaps */
 #lit div p:first-child:first-letter{
     color:#12E3CB;
