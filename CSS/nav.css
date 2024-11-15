@@ -71,6 +71,12 @@ padding: 0.5em 0;
     display: inline-block;
 }
 
+.navbar-links a:hover, 
+.navbar-links a:focus {
+filter: invert(1);
+border-radius: 10px;
+outline: none;
+}
 
 
 /* 
