@@ -1,7 +1,7 @@
 body {
 font-family:Oxanium;
-background-color:#7812E3 ;
-color:#E35312 ;
+background-color:#5A676B ;
+color:#9EEB50;
 
 }
 
@@ -21,7 +21,7 @@ text-align: center;
 
 #hero, footer{
     border: 5px solid #E3E312;
-    background-color:#12E3CB ;
+    background-color:black ;
     text-align: center;
 }
 
@@ -182,7 +182,7 @@ border-radius: 1rem;
 }
 
 legend{
-background-color: #E3E312;
+background-color: #5A676B;
 padding: .5em;
 box-shadow: 2px 2px 2px black;
 

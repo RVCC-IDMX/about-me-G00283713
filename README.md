@@ -1,4 +1,8 @@
 # about-me-G00283713
 about-me-G00283713 created by GitHub Classroom
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f569ff57-65ae-434e-a4f2-fb1b4bef7c4d/deploy-status)](https://app.netlify.com/sites/about-me-g00283713/deploys)
+
+My name is George Ghviniashvili. I took this course to understand the basics of how building websites and coding works. Along the way we added on to a very bare bones website. It took on a form more unique to me and what I want to express and put out there. I learned many great things while developing this project. Just learning how to lay out sections and titles and charts on the website was by far my favorite part. The majority of how the site looks is my favorite aspects of this project. I learned how to separate things equally and use proportions. I also learned how to put a video onto a website. Learning how to make a navigation bar and a contact us page is also a really essential thing to know when starting off website making. Changing the colors on the buttons in the form was a neat trick I pulled off. My color scheme up until the point of finishing my About Me was not so good. The contrast was not so good with the Purple#7812E3 background and the Red#E35312. That will change at the end of the final project. I decided to change the ipsum stuff to something that dives deeper into the images I decided to incorporate with my website. All of the Images I included were of examples that I have or had. The project was about my love for Japanese Swords and I love trying to educate people on them and to spread the love of Nihonto. 
+
 George Ghviniashvili
